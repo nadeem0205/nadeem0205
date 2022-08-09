@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nadeem0205
+- 👋 Hi, I’m Nadeem
 - 👀 I’m interested in technology and computer programming
 - 🌱 I’m currently learning python django
 - 💞️ I’m looking to do fun and cool projects
